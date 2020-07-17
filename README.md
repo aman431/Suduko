@@ -1,5 +1,5 @@
 # Suduko
-code to solve the suduko by using javascript
+Code to solve the suduko by using javascript.
 
 A suduko puzzel is grid of 9 by 9 which contain total 81 boxes in horizontal and vertical. Each number exactly be used ones in each row,each column and each 3 by 3 group.
 
